@@ -1,0 +1,27 @@
+title: About Me
+description: Learn more about my journey as a Brazil-based Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+content: |
+  Hi, I'm **Felipe Leite**, a Front-End Developer based in Teresópolis, Brazil. Over the past five years, I've specialized in building modern, scalable web applications using technologies like Vue.js, Nuxt, React, and TypeScript.
+
+  My journey began in 2020, and since then I've had the chance to work across startups and tech companies—leading feature development, mentoring junior devs, and delivering digital products used by thousands. What drives me is building things that not only work, but *feel right* for the user.
+
+  ### My Development Philosophy
+
+  My approach to front-end development blends **clean code**, **design thinking**, and **performance optimization**. I believe a great UI isn’t just about visuals—it’s about usability, speed, and clarity. I work closely with designers, product teams, and back-end engineers to turn complex ideas into seamless experiences.
+
+  Whether it's architecting a SPA with Vue 3 + Pinia, implementing SSR with Nuxt 3, or integrating with APIs and external services like Stripe or Google, I enjoy bringing projects to life from sketch to ship.
+
+  ### What Keeps Me Going
+
+  I’m passionate about solving real-world problems through code and learning new tools along the way. I'm always exploring ways to improve UX through reusable components, intuitive flows, and smart logic that scales with business needs.
+
+  ### Outside the Code
+
+  When I’m not coding, you’ll probably find me traveling, binge-watching a good sci-fi show, or diving into something new—whether it’s cloud tech, design, or random stuff that sparks my curiosity. I’ve always loved exploring and learning. You’ll even notice that vibe in the pictures I shared—one at Kennedy Space Center, one at the MSI (yep, the League of Legends championship), and another at USF (University of South Florida). Feel free to check out my projects or hit me up if you wanna chat.
+images:
+  - src: /kennedy-space-center.png
+    alt: Me at Kennedy Space Center
+  - src: /usf.jpg
+    alt: Me at USF (University Of South Florida)
+  - src: /msi-2017.jpg
+    alt: Me at MSI 2017
