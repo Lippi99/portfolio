@@ -8,7 +8,11 @@ defineProps<{
 
 <template>
   <UPageSection
+    title="Testimonials"
+    description="Hear from the people I've worked with—managers, teammates, and collaborators—sharing their experiences working alongside me."
     :ui="{
+      title: 'text-left text-xl sm:text-xl lg:text-2xl font-medium',
+      description: 'text-left mt-2 text-sm sm:text-md lg:text-sm text-muted',
       container: 'px-0 !pt-0',
     }"
   >

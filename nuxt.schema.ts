@@ -26,7 +26,7 @@ export default defineNuxtSchema({
           title: "Email",
           description: "Your email address.",
           icon: "lucide:mail",
-          default: "ui-pro@nuxt.com",
+          default: "lipesalomao99@gmail.com",
         }),
         picture: group({
           title: "Picture",
