@@ -12,7 +12,7 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a Front-End Developer with 5 years of experience, I specialize in crafting scalable, user-focused web applications using JavaScript, TypeScript, and modern frameworks like Vue.js and React. With a strong foundation in software development and hands-on experience across both startup and enterprise environments, I bridge the gap between design and functionality to deliver clean, performant, and accessible digital experiences.
+    As a Front-End Developer with 6 years of experience, I specialize in crafting scalable, user-focused web applications using JavaScript, TypeScript, and modern frameworks like Vue.js and React. With a strong foundation in software development and hands-on experience across both startup and enterprise environments, I bridge the gap between design and functionality to deliver clean, performant, and accessible digital experiences.
 experience:
   title: Work Experience
   items:
@@ -31,12 +31,19 @@ experience:
         url: "https://noclaftech.com"
         color: "#f6c837"
     - position: "Front-end developer at"
-      date: "2024 - Moment"
+      date: "2024 - 2025"
       company:
         name: 636
         logo: "/companies/636.webp"
         url: "https://imobiliaria636.com.br"
         color: "#3a6a9b"
+    - position: "Senior Front-end developer at"
+      date: "2025 -Moment"
+      company:
+        name: Nortal
+        logo: "/companies/nortal.svg"
+        url: "https://nortal.com/"
+        color: "#009639"
 testimonials:
   - quote: "Felipe is an excellent professional—very dedicated and always eager to pursue new knowledge. Having him on the team is a big plus: he is responsible, delivery-focused, and careful with deadlines. On top of that, he's a very pleasant person to work with on a daily basis."
     author:
